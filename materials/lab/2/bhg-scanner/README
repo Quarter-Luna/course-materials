@@ -1,1 +1,10 @@
-You might need to do a "go mod init bhg-scanner" or "go mod tidy"
+The program has a set address that it checks all ports on and records which are open.
+It will then display all open ports in numerical order and count the number of closed ports.
+
+The PortScan function takes a list of ports and an address and checks all ports listed to see if they are open.
+It then records the open ports and returns a list of the open ports.
+
+TODO 2: Used net.DialTimeout
+TODO 3: Made closedport list
+TODO 4: Made usable on general machines
+TODO 5: Made User friendly
