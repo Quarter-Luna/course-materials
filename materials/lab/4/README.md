@@ -3,7 +3,7 @@
 ## Required [10 points]
 - Update wyoassign.go by specifically updating: `func UpdateAssignment`
 - Update main.go to enable this new route
-- Use postman to exercise/run through ALL of the available endpoints
+- Use postman to exercise/run through ALL of the available endpoints web.postman.co
 - Save the responses from each run and place them in one text file
 
 
